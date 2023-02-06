@@ -23,9 +23,9 @@ Learning web et web mobile developper
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikann0)](https://github.com/mikan/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikann0)](https://github.com/mikann0/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikann0&layout=compact)](https://github.com/mikan0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikann0&layout=compact)](https://github.com/mikann0/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=mikann0&style=flat-square)
