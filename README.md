@@ -23,7 +23,7 @@ Learning web et web mobile developper
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimikann0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikann0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
