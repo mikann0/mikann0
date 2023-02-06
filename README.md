@@ -23,11 +23,13 @@ Learning web et web mobile developper
 </p>
 
 
+# replace username with your own or change theme
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?mikann0=#your-mikann0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-mikann0" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?mikann0=#your-mikann0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-mikann0" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-mikann0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-mikann05" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-mikann0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-mikann0" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-mikann0&theme=highcontrast&hide_border=true" alt="#your-mikann0" />
 </p>
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
