@@ -23,13 +23,7 @@ Learning web et web mobile developper
 </p>
 
 
-# replace username with your own or change theme
-## Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?mikann0=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?mikann0=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimikann0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
