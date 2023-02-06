@@ -5,7 +5,7 @@ Learning web et web mobile developper
 -------------------------------------
 
 * 🌍  I'm based in Lyon
-* 🧠  I'm learning CCI Formation
+* 🧠  I'm learning at CCI Formation
 
 ### Skills
 
