@@ -1,7 +1,7 @@
 Hi 👋 My name is Mikan
 ======================
 
-Learning web et web mobile developper
+Learning web and web mobile development
 -------------------------------------
 
 * 🌍  I'm based in Lyon
