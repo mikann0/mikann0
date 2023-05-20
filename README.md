@@ -1,4 +1,4 @@
-Hi 👋 My name is Mikan
+Hi 👋 My name is Mika
 ======================
 
 Learning web and web mobile development
